@@ -1,3 +1,3 @@
 # GitLab2
 
-This is modified GitLab2 Readme file again.
+This is a modified GitLab2 Readme file again.
